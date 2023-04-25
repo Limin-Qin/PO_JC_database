@@ -8,5 +8,5 @@ Please check or recompute stability indices if the readers need to use these par
 
 Some families are departed into two .mat file such as W4_1P4 and W4_1P4_2.
 
-The .txt file contains the black line families in bifurcation diagram in the paper. It has the orbit families name, orbit state parameters and time period.
+The .txt file contains the black line families in bifurcation diagrams in the paper. It has the orbit families name, orbit state parameters and time period.
 one orbit is supplied for each families.
